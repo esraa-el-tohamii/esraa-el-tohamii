@@ -11,7 +11,7 @@
 - 🎓 I'm a second-year AI & Data Science student passionate about exploring how machine learning can solve real-world problems.
 - 📊 I love working on data visualization, predictive modeling, and analysis with Python and Jupyter.
 - 🌱 Currently learning more about **Machine Learning algorithms** and **Deep Learning**.
-- 📜 You can also learn more about my experiences [here]([https://drive.google.com/file/d/16qo8ng-PlhGlhIVDHpMUTCRT98xjN7R/view?usp=sharing](https://drive.google.com/file/d/17WnvSmb1VFU-DGxiIXg7sZNP4W8U4ygR/view?usp=sharing))
+- 📜 You can also learn more about my experiences [here](https://drive.google.com/file/d/17WnvSmb1VFU-DGxiIXg7sZNP4W8U4ygR/view?usp=sharing)
 
 ---
 
