@@ -41,8 +41,8 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Healthcare Predictive Analytics](#) | A team project for predicting healthcare outcomes using ML | Python, Pandas, Scikit-learn, streamlit|
-| [EDA on Googleplay Dataset](#) | Full analysis and visualization for Titanic survival | Jupyter, Matplotlib, Seaborn |
+| [Healthcare Predictive Analytics](https://www.github.com/esraa-el-tohamii/Health-Care-Project) | A team project for predicting healthcare outcomes using ML | Python, Pandas, Scikit-learn, streamlit|
+| [EDA on Googleplay Dataset](https://www.github.com/esraa-el-tohamii/Google-PlayStore-Dataser) | Full analysis and visualization for Titanic survival | Jupyter, Matplotlib, Seaborn |
 
 > 🔗 *More projects coming soon to my public repos...*
 
