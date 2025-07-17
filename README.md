@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Esraa Mostafa El Tohamy</h1>
+<h1 align="center">Hi👋, I'm Esraa Mostafa El Tohamy</h1>
 
 <p align="center">
 🌟 AI & Data Science Enthusiast | Student at Faculty of Computers and Information Sciences 🌟  
